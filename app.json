@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Tarefa Flexbox - Perfil",
+    "slug": "tarefa-flexbox-perfil",
+    "scheme": "tarefa-flexbox-perfil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro",
+      "name": "Perfil - Flexbox"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
